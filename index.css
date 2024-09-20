@@ -1,0 +1,76 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+nav{
+    background-color: rgb(177, 186, 186);
+    height: 55px;
+    line-height: 55px;
+    
+    
+}
+
+
+
+nav  ul li {
+    display: inline;
+   
+    
+}
+
+nav  ul li:last-child {
+   
+   float: right;
+   
+    
+}
+
+nav   ul  li  a{
+    text-decoration: none;
+    margin: 0px 20px;
+    
+
+}
+
+
+.section{
+    margin: 20px 10px;
+    color: cadetblue;
+    background-color: aqua;
+}
+
+.Lable{
+    margin:  20px 10px;
+   
+}
+
+#evenDis{
+    margin:20px 10px ;
+    height: 200px;
+    width: 50%;
+}
+
+.table{
+    margin: 20px 10px ;
+    border-color: chartreuse;
+}
+
+button{
+    border-color: chartreuse;
+    border-radius: 20px;
+    margin: 20px;
+    padding: 10px;
+}
+
+.link{
+    margin:20px 10px ;
+}
+
+.copyright{
+    text-align: center;
+    background-color: rgb(177, 186, 186);
+}
+
+
